@@ -12,4 +12,4 @@ User interface to change number at blank location
 Point system 
 
 
-To start the game, simply use command "cargo run" from inside the cargo in terminal. use "ctrl + c" to exit
+To start the game, make sure you have Rust installed. Simply use command "cargo run" from inside the cargo in terminal. Use "ctrl + c" to exit
